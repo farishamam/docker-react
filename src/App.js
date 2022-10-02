@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is now running from the dockerfile with multistep build.
+          Which port is this using? what does it matter? Removed ports 80:80 from docker-compose.yaml
         </p>
         <a
           className="App-link"
