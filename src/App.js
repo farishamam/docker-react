@@ -7,12 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-<<<<<<< HEAD
-          This change was made on the newly created feature branch.
-=======
           recreated the EB application to see if this works or i get the same
-          error as the new app i tried.
->>>>>>> main
+          error as the new app i tried. Still not working?
         </p>
         <a
           className="App-link"
